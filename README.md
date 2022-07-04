@@ -21,7 +21,7 @@ basic open rules - if total_mines == tile_value then mark all surround open tile
 1-2C+ mark rules - look it up
 1-1+ open rules - look it up
 
-all mines identified: all the mines have been found. Clear the board and win.
+all mines identified - all the mines have been found. Clear the board and win.
 ```
 ### Print board
 the bot will print its vision of the board
