@@ -39,4 +39,12 @@ no progress can be made by this bot: quitting - the bot failed to clear any more
 quit due to error overload - either the software is crap or part of the board was obstructed
 ```
 
+## Dependencies 
+```
+cv2
+numpy
+pyautogui
+```
+
+
 
