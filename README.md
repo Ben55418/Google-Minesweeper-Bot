@@ -11,7 +11,7 @@ typing the "delay" command will allow the user to set the start delay of the bot
 typing the "prints" command will toggle most prints. Win and error messages remain unaffected, default False.
 
 ## Bot messages
-# Rules
+### Rules
 total_mines and total_open are for the surrounding tiles.
 ```
 basic mine rules - if total_mines + total_open == tile_value then mark all surrounding as mines.
@@ -21,7 +21,7 @@ basic open rules - if total_mines == tile_value then mark all surround open tile
 
 all mines identified: all the mines have been found. Clear the board and win.
 ```
-# Print board
+### Print board
 the bot will print its vision of the board
 ```
 "E" : value of -9 - error in identifying tile
@@ -30,7 +30,7 @@ the bot will print its vision of the board
 " " : value of 0 - tile value of 0
 "1"-"8" : value of 1-8 - tile value
 ```
-# Other messages
+### Other messages
 ```
 game won - self explanatory
 no progress can be made by this bot: quitting - the bot failed to clear any more squares for 3 moves in a row.
