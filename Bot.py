@@ -26,7 +26,7 @@ while True:
 		start_delay = float(input("set delay: "))
 	elif i == "prints":
 		enable_prints = not enable_prints
-		print("prints are now set to: ", enable_prints)
+		print("prints are now set to:", enable_prints)
 	elif i == "hard":
 		flag_total = 99
 		width = 24
