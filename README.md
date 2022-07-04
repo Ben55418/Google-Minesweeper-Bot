@@ -35,7 +35,7 @@ the bot will print its vision of the board
 ### Other messages
 ```
 game won - self explanatory
-no progress can be made by this bot: quitting - the bot failed to clear any more squares for 3 moves in a row
+no progress can be made by this bot - the bot failed to clear any more squares for 3 moves in a row
 quit due to error overload - either the software is crap or part of the board was obstructed
 ```
 
