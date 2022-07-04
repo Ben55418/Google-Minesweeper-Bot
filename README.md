@@ -18,7 +18,7 @@ total_mines and total_open are for the surrounding tiles
 ```
 basic mine rules - if total_mines + total_open == tile_value then mark all surrounding as mines
 basic open rules - if total_mines == tile_value then mark all surround open tiles as open
-1-2C+ mark rules - look it up
+1-2C+ mine rules - look it up
 1-1+ open rules - look it up
 
 all mines identified - all the mines have been found. Clear the board and win.
