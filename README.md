@@ -1,3 +1,5 @@
+# (it's bad)
+
 # Google-Minesweeper-Bot
 A Python bot that can play Google Minesweeper
 
